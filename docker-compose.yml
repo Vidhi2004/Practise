@@ -1,0 +1,9 @@
+version: '3'
+services:
+  log_rotation:
+    build: .
+    container_name: log_rotation_container
+    volumes:
+      - ./logs:/var/log        # Mount local log directory to the container's /var/log
+    stdin_open: true            # Keep STDIN open for interaction
+    tty: true                   # Allocate a pseudo-TTY for interactive session
