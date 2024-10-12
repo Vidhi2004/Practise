@@ -1,5 +1,5 @@
 # Practise
-I am trying to use Ubuntu on Oracle Virtual Box and tring out shell scripting and Docker
+I am trying to use Ubuntu on Oracle Virtual Box and tring out shell scripting and Docker commands
 
 Log Rotation Script:
 I have developed a Bash script that automates the rotation and compression of log files based on user-defined criteria.
