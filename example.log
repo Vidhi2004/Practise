@@ -1,5 +1,6 @@
 /var/log/example/*.log {
     daily
+    size 10M
     rotate 7
     compress
     missingok
