@@ -11,7 +11,7 @@ The script includes features like:
 
 Docker Integration:
 I created a Dockerfile to containerize your log rotation script.
-I set up a docker-compose.yml file for easy orchestration of your Docker container, which can run the script.
+I set up a docker-compose.yml file for easy orchestration of my Docker container, which can run the script.
 
 Git Repository:
 I maintained version control using Git, with a GitHub repository to showcase my work.
